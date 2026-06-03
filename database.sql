@@ -1,4 +1,3 @@
-
 CREATE DATABASE IF NOT EXISTS transaction_demo;
 USE transaction_demo;
 
